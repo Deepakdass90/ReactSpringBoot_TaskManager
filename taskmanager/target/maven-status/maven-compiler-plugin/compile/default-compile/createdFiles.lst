@@ -1,0 +1,8 @@
+com\deepak\project\taskmanager\service\TaskManagerServiceImpl.class
+com\deepak\project\taskmanager\Exceptions\TaskProcessingException.class
+com\deepak\project\taskmanager\TaskmanagerApplication.class
+com\deepak\project\taskmanager\controller\DefaultController.class
+com\deepak\project\taskmanager\repository\TaskRepository.class
+com\deepak\project\taskmanager\service\TaskManagerService.class
+com\deepak\project\taskmanager\entity\TaskList.class
+com\deepak\project\taskmanager\controller\TaskController.class
